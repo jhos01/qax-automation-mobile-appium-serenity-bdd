@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "name": "realme_c55_real_device_mda_apk",
+  "server": {
+    "remote": {
+      "port": ""
+    },
+    "advanced": {}
+  },
+  "caps": [
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "7HRSIJNJJNAYNR9X"
+    },
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "appium:appPackage",
+      "value": "com.saucelabs.mydemoapp.android2.2.0"
+    },
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "appium:appActivity",
+      "value": "com.saucelabs.mydemoapp.android.view.activities.SplashActivity"
+    },
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "UIAutomator2"
+    },
+    {
+      "type": "boolean",
+      "enabled": true,
+      "name": "noReset",
+      "value": true
+    }
+  ]
+}
