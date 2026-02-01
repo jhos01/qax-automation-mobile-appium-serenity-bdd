@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "name": "emulator_mdapk_Challenge1",
+  "server": {
+    "remote": {
+      "port": ""
+    },
+    "advanced": {}
+  },
+  "caps": [
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "DeviceName",
+      "value": "emulator-5554"
+    },
+    {
+      "enabled": true,
+      "type": "text",
+      "name": "automationName",
+      "value": "UIAutomator2"
+    },
+    {
+      "type": "text",
+      "enabled": true,
+      "name": "appPackage",
+      "value": "com.saucelabs.mydemoapp.android"
+    },
+    {
+      "type": "text",
+      "enabled": true,
+      "name": "appActivity",
+      "value": "com.saucelabs.mydemoapp.android.view.activities.SplashActivity"
+    }
+  ]
+}
