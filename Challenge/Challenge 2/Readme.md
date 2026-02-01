@@ -46,14 +46,23 @@ mvn exec:java -Dexec.mainClass="com.qaxpert.OpenMyDemoAppTest"
 2. Selecciona: Run 'OpenMyDemoAppTest.main()'
 
 ### Dependencias clave
-<dependency>
-  <groupId>io.appium</groupId>
-  <artifactId>java-client</artifactId>
-  <version>8.5.1</version>
-</dependency>
+  <!-- ========== DEPENDENCIAS ========== -->
+  <dependencies>
 
-<dependency>
-  <groupId>org.seleniumhq.selenium</groupId>
-  <artifactId>selenium-java</artifactId>
-  <version>4.14.0</version>
-</dependency>
+    <!-- ===== APPIUM ===== -->
+    <dependency>
+      <groupId>io.appium</groupId>
+      <artifactId>java-client</artifactId>
+      <version>${appium.version}</version>
+    </dependency>
+
+
+    <!-- ===== JUNIT ===== -->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>${junit.version}</version>
+      <scope>test</scope>
+    </dependency>
+
+  </dependencies>
