@@ -4,17 +4,15 @@ Este proyecto automatiza pruebas de la aplicación **My Demo App** utilizando **
 
 ## 📂 Estructura del proyecto
 MyDemoAppTest/
-│
-├── src/
-│ ├── main/
-│ │ └── java/com/qaxpert/
-│ │ └── OpenMyDemoAppTest.java
-│ └── test/
-│ └── java/com/qaxpert/
-│ └── AppTest.java
-│
-├── pom.xml
-└── README.md
+1. src
+	1.1. main
+	1.1.1. java/com/qaxpert
+	1.2.2. OpenMyDemoAppTest.java
+	1.2. test
+	1.2.1.java/com/qaxpert/
+	1.2.2. AppTest.java
+2. pom.xml
+3. README.md
 
 ## ⚙️ Tecnologías
 
@@ -40,10 +38,8 @@ MyDemoAppTest/
 
 ### Ejecución por terminal
 
-```bash
 mvn clean install
 mvn exec:java -Dexec.mainClass="com.qaxpert.OpenMyDemoAppTest"
-```bash
 
 ### Ejecución por terminal desde IntelliJ
 1. Clic derecho sobre la clase OpenMyDemoAppTest
