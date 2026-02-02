@@ -17,5 +17,4 @@ import org.junit.runners.Suite;
         YoutubeTest.class
 })
 public class AllNativeAppsTestSuite {
-    // No necesitas implementar ningún método
 }
