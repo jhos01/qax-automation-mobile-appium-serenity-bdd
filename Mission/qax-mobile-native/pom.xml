@@ -9,6 +9,7 @@
 
   <name>qax-mobile-native</name>
   <url>http://maven.apache.org</url>
+
   <!-- ========== PROPIEDADES ========== -->
   <properties>
     <!-- Java -->
