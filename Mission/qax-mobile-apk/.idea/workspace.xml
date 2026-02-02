@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="000dfbbf-bc86-4a95-baa6-9719fcf7baee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qaxpert/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaxpert/AllManualAppsInEmulatedDeviceSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaxpert/AndroidAppiumDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaxpert/AptoideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaxpert/AutomationSamplePureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaxpert/FDroidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaxpert/GroceryDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaxpert/MyCurrencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qax-mobile-native/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qax-mobile-native/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jhos01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jhos01/qax-automation-mobile-appium-serenity-bdd.git",
+    "accountId": "6b6a61f6-b88e-43ec-92e7-0c5b8f450380"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="395dyuQIyVheesGQbOHfqmQWeHp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AllManualAppsInEmulatedDeviceSuite.executor": "Run",
+    "JUnit.AndroidAppiumDemoTest.executor": "Run",
+    "JUnit.AptoideTest.executor": "Run",
+    "JUnit.AutomationSamplePureTest.executor": "Run",
+    "JUnit.FDroidTest.executor": "Run",
+    "JUnit.GroceryDemoTest.executor": "Run",
+    "JUnit.MyCurrencyTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "mobile/stage1/opennativeapps-mavenproject",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.AllManualAppsInEmulatedDeviceSuite">
+    <configuration name="AllManualAppsInEmulatedDeviceSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qax-mobile-apk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaxpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaxpert" />
+      <option name="MAIN_CLASS_NAME" value="com.qaxpert.AllManualAppsInEmulatedDeviceSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationSamplePureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qax-mobile-apk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaxpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaxpert" />
+      <option name="MAIN_CLASS_NAME" value="com.qaxpert.AutomationSamplePureTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FDroidTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qax-mobile-apk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaxpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaxpert" />
+      <option name="MAIN_CLASS_NAME" value="com.qaxpert.FDroidTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroceryDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qax-mobile-apk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaxpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaxpert" />
+      <option name="MAIN_CLASS_NAME" value="com.qaxpert.GroceryDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCurrencyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qax-mobile-apk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaxpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaxpert" />
+      <option name="MAIN_CLASS_NAME" value="com.qaxpert.MyCurrencyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllManualAppsInEmulatedDeviceSuite" />
+        <item itemvalue="JUnit.MyCurrencyTest" />
+        <item itemvalue="JUnit.GroceryDemoTest" />
+        <item itemvalue="JUnit.FDroidTest" />
+        <item itemvalue="JUnit.AutomationSamplePureTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="000dfbbf-bc86-4a95-baa6-9719fcf7baee" name="Changes" comment="" />
+      <created>1769990124247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769990124247</updated>
+    </task>
+    <servers />
+  </component>
+</project>
