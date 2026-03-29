@@ -2,7 +2,7 @@
 
 Este repositorio alberga los proyectos de automatización de pruebas Mobile que desarrollé durante la mentoría QA Pro Level de QAX. Mi objetivo es demostrar mis habilidades para crear, ejecutar y mantener tests robustos y confiables, garantizando la mejor calidad.
 
-# Tecnologías utilizadas
+# 🤖 Tecnologías utilizadas
 - Java
 - Maven
 - Appium
