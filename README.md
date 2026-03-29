@@ -6,7 +6,7 @@ Este repositorio alberga los proyectos de automatización de pruebas Mobile que 
 - Java
 - Maven
 - Appium
-- 
+- Android Studio
 
 # Proyectos
 
